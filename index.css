@@ -1,0 +1,22 @@
+     #map {
+       height: 550px;
+       width: 100%;
+       margin: 0em auto;
+     }
+     
+     #results {
+       position: absolute;
+       height: 390px;      
+       width: 300px;
+       top: 60px;
+       bottom: 0;
+       left: 20px;
+       right: 0px;
+       padding: 5px 5px;
+       background: #282828;
+       color: #ccc;
+       overflow-y: scroll;
+       line-height: 1.5;
+       font-size: 0.75em;
+     }
+     
